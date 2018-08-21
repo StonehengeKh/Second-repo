@@ -1,0 +1,31 @@
+        .App {
+            text-align: center;
+            background-size: 90em;
+            background-image: url(http://cita.com.ua/img/ntours/big/3/114068615.jpg);
+            min-height: 100em;
+            color: white;
+        }
+        
+        .App-title {
+            font-size: 1.5em;
+        }
+        
+        .App-intro {
+            font-size: large;
+        }
+        
+        .city {
+            color: blue;
+            background-color: white;
+            border-radius: 5px;
+            font-size: 1.2em;
+            width: 8.5em;
+            margin: 5px;
+        }
+        
+        .city:hover {
+            color: white;
+            background-color: gray;
+        }
+        
+        .in {}
